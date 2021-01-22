@@ -1,0 +1,6 @@
+Ausgangslage:
+
+App Version 1.0
+Quadrat 1 = rot und gross
+Quadrat 2 = blau und klein
+Quadrat 3 = grn und klein
