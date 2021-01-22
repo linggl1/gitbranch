@@ -4,3 +4,5 @@ App Version 1.0
 Quadrat 1 = rot und gross
 Quadrat 2 = blau und klein
 Quadrat 3 = grn und klein
+kreis 1 = grn und rund
+Version 2.0
